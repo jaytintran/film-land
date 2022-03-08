@@ -3,6 +3,7 @@ import './App.css'
 import SearchIcon from './search.svg'
 import MovieCard from './MovieCard.jsx'
 
+var cors = require('cors')
 const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=d14eafb8'
 
 const movie1 = {
