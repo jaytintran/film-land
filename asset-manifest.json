@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/film-land/static/css/main.b5d77019.css",
+    "main.js": "/film-land/static/js/main.a4c25414.js",
+    "index.html": "/film-land/index.html",
+    "static/media/search.svg": "/film-land/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.b5d77019.css.map": "/film-land/static/css/main.b5d77019.css.map",
+    "main.a4c25414.js.map": "/film-land/static/js/main.a4c25414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d77019.css",
+    "static/js/main.a4c25414.js"
+  ]
+}
